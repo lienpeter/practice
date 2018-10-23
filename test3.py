@@ -38,13 +38,7 @@ class SupportVectorRegression(ml.Learner):
         self.sv_Y = []
         self.free_sv_index_upper = []
         self.free_sv_alpha_upper = []
-        self.free_sv_X_upper = []
-        self.free_sv_Y_upper = []
-        self.free_sv_index_lower = []
-        self.free_sv_alpha_lower = []
-        self.free_sv_X_lower = []
-        self.free_sv_Y_lower = []
-        self.sv_avg_b = 0
+  		ljwklejkjkj
 
     def load_train_data(self, input_data_file=''):
 
